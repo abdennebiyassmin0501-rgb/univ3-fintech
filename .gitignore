@@ -1,0 +1,5 @@
+univ3_fintech.db
+auth.json
+.streamlit/secrets.toml
+__pycache__/
+venv/
